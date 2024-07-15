@@ -24,3 +24,6 @@ print('This is a initial project')
 # Super feature - 3
 
 # Super feature - 4
+
+
+# Power feature - 1
